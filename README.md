@@ -7,6 +7,8 @@ A barebones example project on how I setup forge with VSCode along with custom d
 
 Tested on `forge 0.1.0 (03bed46 2022-03-15T00:11:36.438888+00:00)`
 
+https://user-images.githubusercontent.com/95674753/159128869-b058189f-bc84-4874-afe9-ab26440744c2.mov
+
 ## Overview
 
 - Uses [forge](https://github.com/gakonst/foundry) to compile, test, and debug.
