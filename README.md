@@ -63,7 +63,7 @@ If you have multiple contracts with `pragma abiencoderv2`, there is a possibilit
 
 One way to get around it is via [paulrberg's multisol](https://github.com/paulrberg/multisol) or [hjubb's solt](https://github.com/hjubb/solt) and verify it manually via the official interface.
 
-The caveat to the approach above is that you have to have to copy the libraries in `lib` to `node_modules` and make sure the path matches as it doesn't read remappings. 
+The caveat to the approach above is that you have to copy the libraries in `lib` to `node_modules` and make sure the path matches as it doesn't read remappings. 
 
 For example:
 
